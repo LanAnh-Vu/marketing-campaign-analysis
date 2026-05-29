@@ -22,32 +22,32 @@ The dataset contains customer demographics, campaign information, engagement met
 
 Key variables include:
 
-Age, Gender, Income
-Campaign Channel and Campaign Type
-Ad Spend and Click-Through Rate
-Website Visits, Pages Per Visit, Time On Site
-Email Opens and Email Clicks
-Previous Purchases and Loyalty Points
-Conversion (Target Variable)
+- Age, Gender, Income
+- Campaign Channel and Campaign Type
+- Ad Spend and Click-Through Rate
+- Website Visits, Pages Per Visit, Time On Site
+- Email Opens and Email Clicks
+- Previous Purchases and Loyalty Points
+- Conversion (Target Variable)
 
 ## Tools Used
-Python
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
 ## Analysis Performed
-Exploratory Data Analysis
-Machine Learning
+- Exploratory Data Analysis
+- Machine Learning
 
 ## Business Recommendations
-Increase website engagement initiatives to improve conversion rates.
-Prioritize customers demonstrating strong engagement signals.
-Strengthen loyalty programs to encourage repeat conversions.
-Improve email marketing effectiveness through higher engagement strategies.
-Focus on behavioral targeting rather than demographic segmentation alone.
+- Increase website engagement initiatives to improve conversion rates.
+- Prioritize customers demonstrating strong engagement signals.
+- Strengthen loyalty programs to encourage repeat conversions.
+- Improve email marketing effectiveness through higher engagement strategies.
+- Focus on behavioral targeting rather than demographic segmentation alone.
 
 ## Repository Structure
 marketing-campaign-analysis/
