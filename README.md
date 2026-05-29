@@ -50,6 +50,7 @@ Key variables include:
 - Focus on behavioral targeting rather than demographic segmentation alone.
 
 ## Repository Structure
+```text
 marketing-campaign-analysis/
 │
 ├── data/
